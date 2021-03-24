@@ -13,7 +13,7 @@ function App() {
     <Router>
       <GlobalStyle/>     
       <Hero/>
-      <Products heading='در این بخش حراجهای موجود را می بینید' data={productData}/>
+      <Products heading='در این بخش جدیدترین حراجها را می بینید' data={productData}/>
       <Form/>
       <Footer/>
     </Router>
