@@ -14,7 +14,7 @@ function App() {
       <GlobalStyle/>     
       <Hero/>
       <Products heading='در این بخش جدیدترین حراجها را می بینید' data={productData}/>
-      <Form/>
+      {/* <Form/> */}
       <Footer/>
     </Router>
   );
